@@ -138,7 +138,7 @@ $(document).ready(function(){
 <div class="itemList slide-child">
    <div class="imageArea"><img src="img/img2.jpg"/></div>
    <div class="reviewArea">
-      <textarea readonly>일시 : 2019년 9월 28일
+      <textarea readonly>일시 : 2019년 9월 28일 TEST01
 장소 : 공덕 IOT COC (1차), 바른치킨(2차)
 시간 : 3시, 6시
 인원 1차 60명 2차 50명
